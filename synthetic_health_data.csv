@@ -1,0 +1,1001 @@
+Gender,Date of Birth,Height (cm),Weight (kg),Allergy,Diet,Diabetes,Insulin Coefficient,Preferred Blood Sugar Range
+Female,1954-02-07,184,99,Wheat,Low-Carb,Type 1,1-7,73-126
+Male,1938-10-02,157,86,Shellfish,High-Carb,Type 1,1-15,73-126
+Male,1945-02-05,182,91,Lactose,High-Carb,Type 2,,73-126
+Female,2000-01-20,169,85,Wheat,Vegan,None,,
+Male,1941-05-26,180,72,Shellfish,Keto,Type 1,1-18,73-126
+Female,1974-10-22,163,114,Wheat,Keto,Type 2,,73-126
+Female,2007-01-19,163,50,Shellfish,Vegan,Type 1,1-5,73-126
+Female,1998-12-25,166,91,Shellfish,Keto,None,,
+Male,1953-04-23,195,107,Shellfish,Keto,Type 1,1-18,73-126
+Male,1948-10-29,192,58,Wheat,High-Carb,None,,
+Female,1936-06-12,161,87,Peanuts,None,None,,
+Female,1935-08-12,169,93,Shellfish,Keto,Type 2,,73-126
+Male,1936-07-28,160,81,Peanuts,Low-Carb,None,,
+Female,1972-04-05,150,109,Peanuts,Low-Carb,None,,
+Female,1978-04-13,155,104,Peanuts,High-Carb,Type 2,,73-126
+Male,1946-03-14,187,101,Lactose,None,Type 2,,73-126
+Female,1937-12-31,180,113,Peanuts,Low-Carb,Type 1,1-12,73-126
+Male,1967-04-03,195,66,Wheat,High-Carb,Type 2,,73-126
+Male,1976-06-11,156,66,Peanuts,High-Carb,None,,
+Female,1958-10-30,194,66,Wheat,Keto,Type 2,,73-126
+Female,1978-03-14,197,79,Peanuts,High-Carb,Type 1,1-13,73-126
+Female,1996-03-07,183,104,Lactose,None,Type 2,,73-126
+Female,1950-04-18,180,65,Wheat,High-Carb,Type 2,,73-126
+Male,1937-07-03,157,61,Wheat,Keto,None,,
+Male,1963-05-19,176,56,Shellfish,Low-Carb,Type 2,,73-126
+Female,1961-10-04,198,111,None,Keto,Type 2,,73-126
+Female,1958-12-01,198,70,Peanuts,Keto,Type 2,,73-126
+Female,1940-12-02,189,53,Lactose,High-Carb,Type 1,1-11,73-126
+Female,1951-09-18,187,120,Peanuts,High-Carb,None,,
+Male,1981-09-20,193,62,Lactose,Keto,Type 2,,73-126
+Male,1987-03-17,179,48,None,Low-Carb,Type 1,1-10,73-126
+Female,1954-08-21,197,113,Shellfish,High-Carb,Type 2,,73-126
+Female,1966-07-11,189,87,Wheat,High-Carb,Type 2,,73-126
+Male,1969-03-01,171,73,None,None,Type 1,1-12,73-126
+Female,1959-02-12,156,78,Peanuts,None,Type 1,1-9,73-126
+Female,1961-05-20,190,85,None,None,Type 2,,73-126
+Female,1950-02-11,171,50,Lactose,High-Carb,None,,
+Male,1976-01-08,163,63,Peanuts,Vegan,None,,
+Male,1988-03-11,155,109,Peanuts,Low-Carb,None,,
+Male,1987-05-18,168,50,Peanuts,Keto,Type 2,,73-126
+Male,1963-12-10,198,105,Wheat,Low-Carb,None,,
+Male,1970-02-28,158,72,None,High-Carb,Type 2,,73-126
+Male,1962-05-03,196,61,Lactose,None,Type 2,,73-126
+Male,1956-09-13,200,84,Lactose,High-Carb,Type 2,,73-126
+Female,1994-10-29,186,68,None,Keto,Type 1,1-10,73-126
+Male,1950-11-03,154,115,Wheat,Vegan,Type 1,1-13,73-126
+Female,1978-11-21,179,111,Shellfish,Keto,None,,
+Female,1944-09-07,162,64,Peanuts,Low-Carb,None,,
+Male,1986-04-03,179,53,None,Keto,Type 2,,73-126
+Male,1944-05-28,158,106,Peanuts,Low-Carb,Type 2,,73-126
+Female,1962-05-18,153,119,Peanuts,Low-Carb,Type 2,,73-126
+Female,1998-05-23,193,51,None,Vegan,None,,
+Male,1972-07-20,150,87,None,None,Type 2,,73-126
+Female,1950-07-06,164,53,Wheat,Keto,Type 1,1-7,73-126
+Male,1995-02-09,162,91,Shellfish,None,None,,
+Male,1957-04-26,164,58,Shellfish,Low-Carb,Type 1,1-5,73-126
+Female,1998-06-01,164,60,Wheat,Keto,None,,
+Male,1963-06-07,183,108,Peanuts,None,Type 1,1-6,73-126
+Female,1972-12-13,193,119,Lactose,None,None,,
+Female,1963-04-02,169,74,Lactose,Low-Carb,Type 1,1-11,73-126
+Male,1944-07-19,187,46,Peanuts,Low-Carb,Type 2,,73-126
+Female,1982-05-23,162,80,Wheat,Low-Carb,None,,
+Female,1940-08-19,186,71,Shellfish,Vegan,Type 1,1-12,73-126
+Male,1986-03-23,176,95,Lactose,Keto,Type 2,,73-126
+Male,1968-07-22,166,75,Shellfish,High-Carb,None,,
+Female,1967-06-09,158,77,Shellfish,Low-Carb,Type 1,1-13,73-126
+Female,1984-10-17,195,113,Lactose,Keto,Type 2,,73-126
+Female,1964-04-27,195,83,Lactose,None,Type 1,1-20,73-126
+Male,1972-08-13,194,97,Wheat,High-Carb,None,,
+Male,1952-11-20,186,71,Peanuts,Vegan,None,,
+Female,1995-02-16,184,73,None,Vegan,Type 1,1-7,73-126
+Female,1997-06-07,175,120,Shellfish,Vegan,Type 1,1-6,73-126
+Female,1993-02-07,194,67,Shellfish,High-Carb,None,,
+Female,1959-08-19,161,59,Peanuts,High-Carb,Type 2,,73-126
+Male,1935-04-17,169,60,Shellfish,Low-Carb,Type 2,,73-126
+Female,1958-04-01,181,86,None,High-Carb,None,,
+Male,1955-01-08,189,71,Peanuts,Vegan,Type 1,1-19,73-126
+Male,1999-06-20,169,73,Peanuts,Vegan,Type 2,,73-126
+Male,1967-09-30,174,72,None,Vegan,Type 2,,73-126
+Male,1999-01-19,184,114,Peanuts,Keto,Type 2,,73-126
+Female,1972-06-08,155,61,None,High-Carb,Type 1,1-9,73-126
+Female,1992-05-16,197,77,Lactose,Keto,Type 1,1-6,73-126
+Male,1965-07-02,167,100,Wheat,Low-Carb,Type 1,1-6,73-126
+Male,1944-08-14,170,74,None,Vegan,Type 2,,73-126
+Female,2002-08-18,171,78,Wheat,High-Carb,None,,
+Female,1943-10-12,152,112,Peanuts,Vegan,Type 1,1-10,73-126
+Female,1946-07-30,154,119,Wheat,Keto,Type 2,,73-126
+Female,1997-01-15,164,75,Shellfish,Keto,Type 2,,73-126
+Male,1985-02-16,185,49,Wheat,Low-Carb,Type 2,,73-126
+Male,1981-04-23,194,84,Peanuts,Low-Carb,Type 2,,73-126
+Male,1957-06-22,153,89,Lactose,High-Carb,None,,
+Male,1949-09-03,165,77,Lactose,High-Carb,None,,
+Female,1980-04-12,177,81,Peanuts,Low-Carb,Type 1,1-9,73-126
+Female,1999-01-15,182,46,Peanuts,High-Carb,Type 1,1-17,73-126
+Male,1952-02-02,172,90,Peanuts,Vegan,Type 1,1-11,73-126
+Female,1980-03-22,168,57,Lactose,High-Carb,Type 2,,73-126
+Male,1934-05-07,181,100,Wheat,None,Type 1,1-9,73-126
+Female,1995-09-10,155,70,Peanuts,None,Type 1,1-11,73-126
+Female,1935-12-08,175,86,None,Keto,Type 2,,73-126
+Female,1998-12-14,158,100,Wheat,Vegan,Type 1,1-14,73-126
+Male,1985-10-03,156,57,Peanuts,Keto,Type 1,1-6,73-126
+Female,1941-05-04,195,68,Wheat,Keto,Type 2,,73-126
+Female,1949-01-04,162,103,Lactose,Low-Carb,Type 2,,73-126
+Male,1935-01-23,198,95,Lactose,Keto,None,,
+Male,1988-05-09,153,57,Lactose,High-Carb,Type 1,1-5,73-126
+Female,1940-01-13,162,81,None,Vegan,Type 2,,73-126
+Male,1993-01-24,171,52,None,Keto,None,,
+Female,1988-12-03,161,57,Wheat,Keto,Type 1,1-16,73-126
+Male,1991-10-28,162,95,Shellfish,Keto,Type 2,,73-126
+Male,1950-05-18,166,99,Wheat,Low-Carb,Type 1,1-6,73-126
+Male,1987-11-21,198,71,Lactose,Vegan,None,,
+Female,1990-10-30,200,51,Wheat,Vegan,None,,
+Female,1968-10-29,164,96,Peanuts,Low-Carb,Type 1,1-10,73-126
+Male,1971-08-16,172,54,Lactose,None,Type 2,,73-126
+Male,1991-01-31,160,103,Wheat,Low-Carb,None,,
+Female,1947-12-13,155,93,None,Keto,Type 1,1-8,73-126
+Female,1962-05-07,184,85,Peanuts,Low-Carb,None,,
+Male,1977-02-27,199,47,None,Low-Carb,Type 1,1-17,73-126
+Male,1980-12-11,188,110,Lactose,None,Type 1,1-11,73-126
+Male,1958-08-05,184,91,Shellfish,High-Carb,None,,
+Male,1952-11-08,186,63,Lactose,Vegan,None,,
+Male,1951-04-24,191,107,Lactose,High-Carb,None,,
+Female,1981-12-28,158,83,Wheat,Low-Carb,Type 1,1-13,73-126
+Male,1950-05-03,169,89,Lactose,Low-Carb,None,,
+Female,1962-08-24,177,108,Wheat,Keto,Type 2,,73-126
+Male,1989-06-04,164,86,Shellfish,Low-Carb,None,,
+Female,1967-03-21,175,115,Wheat,High-Carb,Type 1,1-10,73-126
+Female,1975-11-11,188,78,Wheat,Low-Carb,Type 1,1-6,73-126
+Male,1962-12-13,161,112,Wheat,Keto,None,,
+Female,1969-05-19,196,103,None,Keto,Type 2,,73-126
+Female,1973-12-06,171,47,Wheat,High-Carb,Type 1,1-13,73-126
+Male,1980-01-22,185,62,Shellfish,High-Carb,Type 2,,73-126
+Female,1962-10-02,163,77,Shellfish,Vegan,Type 2,,73-126
+Male,1961-10-08,171,58,Lactose,Keto,None,,
+Female,1991-11-05,152,55,Shellfish,Vegan,Type 1,1-8,73-126
+Female,1940-08-27,190,72,Lactose,Vegan,Type 2,,73-126
+Male,1951-01-09,163,92,Wheat,Keto,Type 2,,73-126
+Female,1960-04-21,191,98,Lactose,High-Carb,Type 1,1-20,73-126
+Male,1974-03-07,165,91,Shellfish,Low-Carb,Type 1,1-11,73-126
+Female,2004-08-08,160,105,Lactose,High-Carb,Type 2,,73-126
+Male,2006-04-12,162,117,Wheat,High-Carb,Type 1,1-5,73-126
+Male,1976-03-31,199,62,Shellfish,Keto,Type 1,1-12,73-126
+Male,1965-02-08,169,89,None,None,None,,
+Male,1999-07-05,171,53,Wheat,Vegan,None,,
+Male,1980-04-07,168,96,None,Keto,None,,
+Female,1993-07-18,160,108,Shellfish,High-Carb,None,,
+Female,1940-07-27,194,70,Wheat,High-Carb,Type 2,,73-126
+Male,1974-04-20,163,86,Wheat,Vegan,None,,
+Female,1954-11-23,164,86,Peanuts,Vegan,Type 1,1-8,73-126
+Male,1953-03-08,171,83,Peanuts,None,Type 1,1-20,73-126
+Female,2001-03-19,157,86,Wheat,Vegan,None,,
+Female,1945-09-16,198,69,Lactose,None,Type 2,,73-126
+Female,1988-08-10,172,84,None,Low-Carb,Type 2,,73-126
+Male,2003-08-22,188,96,None,High-Carb,Type 1,1-12,73-126
+Male,1973-07-07,155,109,Wheat,High-Carb,Type 2,,73-126
+Female,1952-12-10,189,85,None,Keto,None,,
+Female,1974-07-25,171,48,Wheat,Vegan,Type 1,1-8,73-126
+Male,1977-05-03,170,87,Wheat,None,Type 2,,73-126
+Female,1940-02-14,189,49,Peanuts,Low-Carb,None,,
+Female,1964-03-29,151,104,Wheat,High-Carb,None,,
+Male,1993-12-17,157,120,None,None,None,,
+Female,1949-09-19,200,93,Lactose,Low-Carb,None,,
+Female,2001-10-04,150,90,Shellfish,None,Type 2,,73-126
+Male,1956-04-20,158,99,Wheat,Keto,None,,
+Female,1995-05-27,187,69,Lactose,High-Carb,Type 2,,73-126
+Male,1991-09-24,186,100,None,None,None,,
+Male,1969-06-23,173,93,Shellfish,Keto,None,,
+Female,1948-08-18,186,106,Wheat,Low-Carb,Type 2,,73-126
+Female,1944-06-01,172,49,None,Low-Carb,Type 1,1-7,73-126
+Female,1934-03-16,158,45,Wheat,Low-Carb,Type 1,1-5,73-126
+Female,1983-02-26,176,59,Peanuts,Keto,Type 1,1-19,73-126
+Female,1955-07-22,177,106,Wheat,Vegan,None,,
+Male,2006-03-29,176,94,Shellfish,Low-Carb,Type 1,1-17,73-126
+Female,1947-07-24,182,60,Shellfish,Low-Carb,None,,
+Male,1947-04-28,150,93,None,Keto,Type 1,1-18,73-126
+Female,1986-01-19,151,59,Shellfish,None,Type 1,1-18,73-126
+Male,1984-11-18,183,78,Lactose,High-Carb,Type 1,1-17,73-126
+Male,1939-07-02,181,113,Shellfish,Vegan,None,,
+Male,1968-08-29,195,51,None,Keto,None,,
+Male,1991-04-13,189,119,Lactose,Keto,Type 2,,73-126
+Male,1990-10-03,189,93,Lactose,Vegan,Type 2,,73-126
+Male,1935-07-05,176,111,Wheat,High-Carb,Type 2,,73-126
+Male,1976-08-08,162,93,None,High-Carb,None,,
+Female,1991-08-14,169,78,Peanuts,Low-Carb,Type 2,,73-126
+Male,1981-11-18,166,58,Wheat,Vegan,Type 2,,73-126
+Female,1991-01-02,154,116,Wheat,High-Carb,Type 1,1-6,73-126
+Male,1973-03-09,180,104,Wheat,Low-Carb,Type 2,,73-126
+Female,2006-06-08,169,57,Peanuts,Vegan,Type 1,1-8,73-126
+Female,1938-03-28,190,49,Wheat,Vegan,Type 1,1-5,73-126
+Female,1997-12-10,162,110,Wheat,Low-Carb,None,,
+Male,2002-01-13,185,105,Shellfish,Vegan,Type 2,,73-126
+Male,1982-07-20,153,92,Peanuts,Keto,None,,
+Male,1998-03-17,150,61,Shellfish,Keto,Type 2,,73-126
+Male,2006-04-01,167,87,None,High-Carb,Type 1,1-15,73-126
+Female,1991-05-07,192,64,None,High-Carb,Type 2,,73-126
+Male,1949-12-16,198,72,Lactose,Low-Carb,Type 1,1-5,73-126
+Male,1990-08-08,183,83,Lactose,Vegan,Type 1,1-12,73-126
+Female,2002-06-03,199,55,Lactose,Vegan,None,,
+Male,1998-03-05,178,73,Peanuts,Vegan,Type 2,,73-126
+Male,1936-12-13,150,101,Peanuts,Keto,Type 1,1-8,73-126
+Male,1975-12-21,172,89,Shellfish,Low-Carb,None,,
+Male,1998-07-21,167,49,Peanuts,Vegan,None,,
+Male,1968-08-05,153,73,Peanuts,Low-Carb,Type 1,1-8,73-126
+Female,1945-10-18,174,92,Wheat,High-Carb,Type 1,1-5,73-126
+Male,1954-06-30,151,49,None,Low-Carb,Type 1,1-18,73-126
+Male,1959-10-15,153,104,Wheat,Low-Carb,None,,
+Male,1942-03-27,152,100,None,None,Type 1,1-5,73-126
+Female,1979-09-28,168,78,Shellfish,Vegan,None,,
+Female,1947-03-14,163,65,Wheat,None,Type 1,1-7,73-126
+Female,1966-10-18,195,115,Lactose,Low-Carb,Type 1,1-5,73-126
+Male,1940-03-05,171,104,Peanuts,High-Carb,Type 2,,73-126
+Male,1968-02-02,200,115,Lactose,None,None,,
+Male,2005-01-03,199,56,Wheat,Low-Carb,Type 1,1-19,73-126
+Male,1956-04-01,197,90,Lactose,None,Type 1,1-7,73-126
+Female,2004-09-12,172,106,Peanuts,Vegan,Type 2,,73-126
+Female,1939-06-17,195,48,Lactose,Keto,Type 1,1-8,73-126
+Male,1958-01-15,158,105,Peanuts,Keto,Type 1,1-10,73-126
+Female,2001-03-27,183,56,None,Vegan,None,,
+Male,1955-01-02,167,82,Shellfish,Low-Carb,Type 2,,73-126
+Male,1934-05-20,181,112,Wheat,High-Carb,Type 1,1-16,73-126
+Male,1937-02-10,176,111,Peanuts,None,None,,
+Male,1948-01-30,180,117,None,Keto,None,,
+Female,1952-09-24,164,118,Shellfish,Keto,Type 1,1-10,73-126
+Male,1953-01-19,169,57,None,Keto,Type 2,,73-126
+Female,1989-12-18,163,64,Peanuts,Low-Carb,Type 2,,73-126
+Male,1977-04-29,172,110,Shellfish,Keto,Type 2,,73-126
+Female,1939-10-23,175,109,Peanuts,Keto,Type 1,1-17,73-126
+Male,1995-08-24,194,66,Wheat,Keto,Type 2,,73-126
+Female,1938-08-12,198,82,None,Keto,None,,
+Male,1986-11-27,153,87,Lactose,Keto,None,,
+Female,1980-03-12,158,106,Peanuts,None,Type 2,,73-126
+Female,1952-05-12,194,68,Shellfish,Keto,None,,
+Male,2004-02-09,163,78,Shellfish,None,None,,
+Female,1985-12-23,155,58,Wheat,High-Carb,Type 1,1-7,73-126
+Male,1947-07-06,178,51,Wheat,Low-Carb,Type 1,1-18,73-126
+Male,1937-09-29,169,57,Lactose,High-Carb,Type 1,1-12,73-126
+Female,1960-02-04,161,117,None,Low-Carb,None,,
+Male,1953-03-10,166,84,Lactose,Keto,None,,
+Female,1987-01-02,165,78,Wheat,Keto,None,,
+Male,1957-01-06,199,70,Wheat,None,Type 2,,73-126
+Male,1993-09-26,185,67,Wheat,Vegan,Type 2,,73-126
+Female,1982-05-29,165,51,Shellfish,High-Carb,Type 1,1-11,73-126
+Male,1966-08-11,190,120,Lactose,Vegan,None,,
+Female,1938-02-06,167,78,Wheat,Keto,None,,
+Male,1946-02-16,192,45,Lactose,Vegan,Type 2,,73-126
+Female,1970-04-10,182,64,None,Keto,None,,
+Male,1953-02-08,177,103,None,High-Carb,None,,
+Female,1969-01-05,158,52,Lactose,Low-Carb,None,,
+Male,1963-01-02,180,62,Lactose,None,Type 2,,73-126
+Female,1937-04-29,178,73,Wheat,Keto,None,,
+Female,2005-11-05,175,68,None,High-Carb,Type 1,1-6,73-126
+Male,1973-02-14,159,103,Peanuts,Keto,None,,
+Female,1978-03-14,176,96,Lactose,Vegan,Type 2,,73-126
+Male,1976-05-27,190,68,Lactose,Vegan,Type 1,1-8,73-126
+Female,1943-11-30,153,50,Peanuts,None,None,,
+Female,1962-02-10,191,61,Lactose,Low-Carb,Type 2,,73-126
+Male,2000-05-30,193,71,None,High-Carb,Type 2,,73-126
+Female,1940-05-17,183,119,Lactose,High-Carb,Type 2,,73-126
+Male,1944-09-07,191,67,None,High-Carb,Type 2,,73-126
+Male,1981-10-16,199,67,Lactose,None,None,,
+Male,1996-01-02,165,60,Shellfish,Low-Carb,Type 1,1-11,73-126
+Male,1960-08-24,196,68,Wheat,High-Carb,Type 1,1-10,73-126
+Male,1988-02-28,199,79,Lactose,Vegan,None,,
+Female,1936-06-30,155,70,Lactose,None,None,,
+Female,1954-09-22,167,83,Wheat,None,Type 1,1-17,73-126
+Female,1980-05-02,150,60,Wheat,High-Carb,Type 1,1-8,73-126
+Female,1990-04-22,151,63,Wheat,None,Type 1,1-19,73-126
+Female,1993-04-06,154,58,Shellfish,Low-Carb,Type 1,1-9,73-126
+Male,1953-07-13,173,95,Wheat,Low-Carb,Type 2,,73-126
+Male,1957-05-05,191,67,Peanuts,Keto,Type 2,,73-126
+Male,1938-07-26,197,100,Lactose,Keto,None,,
+Female,1980-12-23,182,60,Lactose,None,Type 1,1-13,73-126
+Male,2005-02-06,200,80,Lactose,Low-Carb,Type 1,1-5,73-126
+Male,1952-09-29,159,46,Wheat,Keto,Type 1,1-20,73-126
+Female,1936-12-07,188,104,None,Low-Carb,Type 2,,73-126
+Male,1956-01-15,172,60,Peanuts,Vegan,None,,
+Male,1996-12-28,190,52,Shellfish,Low-Carb,Type 2,,73-126
+Male,1950-05-27,160,97,Wheat,High-Carb,None,,
+Female,1992-04-20,193,77,Shellfish,None,None,,
+Female,1966-11-22,169,77,Lactose,Vegan,Type 1,1-11,73-126
+Female,1946-12-16,173,106,None,Vegan,Type 1,1-18,73-126
+Male,1959-03-05,185,78,Peanuts,None,Type 2,,73-126
+Female,1950-08-02,194,49,Wheat,None,None,,
+Male,1948-11-02,160,92,Peanuts,None,None,,
+Female,1995-07-14,183,57,Wheat,Vegan,Type 1,1-20,73-126
+Male,1990-12-25,187,47,Peanuts,High-Carb,Type 1,1-13,73-126
+Male,1940-07-31,179,95,None,None,Type 2,,73-126
+Male,1965-02-21,188,54,Wheat,Low-Carb,None,,
+Male,2004-03-18,193,49,None,Keto,Type 2,,73-126
+Female,1976-06-13,166,84,Wheat,Vegan,Type 2,,73-126
+Male,1977-03-02,150,46,Lactose,Low-Carb,Type 1,1-13,73-126
+Male,1946-02-17,172,56,Shellfish,Low-Carb,Type 1,1-7,73-126
+Male,1936-12-25,160,105,None,None,Type 1,1-13,73-126
+Female,1965-06-13,170,75,Lactose,Keto,None,,
+Male,1935-02-23,177,53,None,None,None,,
+Male,1960-12-17,188,78,Lactose,Vegan,None,,
+Female,1973-05-28,177,108,Wheat,Vegan,None,,
+Male,1938-09-19,190,120,Lactose,Keto,None,,
+Male,1968-05-08,185,108,Lactose,Vegan,Type 1,1-16,73-126
+Female,1986-10-29,159,83,Wheat,Vegan,None,,
+Female,1988-05-16,167,113,Peanuts,Low-Carb,Type 1,1-8,73-126
+Male,1996-09-15,181,49,Wheat,Vegan,Type 1,1-15,73-126
+Male,1945-05-31,168,93,Wheat,Keto,Type 1,1-17,73-126
+Female,1969-08-09,167,102,None,None,None,,
+Male,1985-10-05,196,53,Wheat,High-Carb,Type 2,,73-126
+Male,1950-08-02,167,80,Lactose,None,Type 1,1-20,73-126
+Male,1952-04-26,168,75,Lactose,High-Carb,Type 1,1-11,73-126
+Female,1991-12-23,167,102,Peanuts,High-Carb,Type 1,1-12,73-126
+Male,1981-04-06,156,88,Peanuts,Keto,None,,
+Male,1971-09-08,171,88,Shellfish,Low-Carb,Type 1,1-12,73-126
+Male,1937-09-06,183,47,Peanuts,Vegan,Type 2,,73-126
+Male,1989-04-19,176,83,Shellfish,Vegan,Type 1,1-9,73-126
+Female,1966-01-20,184,84,Wheat,Vegan,None,,
+Male,1950-01-04,164,91,Shellfish,High-Carb,Type 1,1-5,73-126
+Male,2002-03-05,169,77,Lactose,Keto,Type 1,1-9,73-126
+Male,1961-11-22,162,57,None,None,Type 2,,73-126
+Female,1955-12-07,164,96,Shellfish,Keto,None,,
+Male,1999-08-26,179,117,Peanuts,Keto,Type 2,,73-126
+Female,1947-12-12,197,86,Wheat,Keto,Type 2,,73-126
+Female,1988-12-24,155,102,Shellfish,Keto,Type 1,1-8,73-126
+Female,1978-02-06,171,59,Lactose,Low-Carb,Type 2,,73-126
+Female,1952-08-27,173,63,Lactose,Low-Carb,None,,
+Female,1964-08-06,159,105,Lactose,None,None,,
+Female,1953-11-30,167,118,Lactose,None,Type 1,1-14,73-126
+Female,1954-11-25,167,109,Wheat,Low-Carb,None,,
+Female,1971-01-29,200,114,Lactose,None,Type 1,1-19,73-126
+Male,1970-07-16,170,68,Wheat,High-Carb,Type 1,1-13,73-126
+Male,1992-12-17,154,72,Shellfish,Low-Carb,Type 1,1-8,73-126
+Male,1975-02-26,191,118,None,Low-Carb,Type 2,,73-126
+Female,1957-04-10,189,106,Lactose,Low-Carb,Type 2,,73-126
+Female,1973-05-12,176,85,Lactose,Vegan,None,,
+Male,1956-04-25,189,75,None,High-Carb,None,,
+Male,1947-08-14,188,87,None,Low-Carb,Type 2,,73-126
+Male,1956-08-24,164,69,Peanuts,Vegan,None,,
+Female,1935-02-12,159,91,Peanuts,Low-Carb,Type 2,,73-126
+Male,2002-09-05,150,114,Wheat,Keto,None,,
+Female,1967-09-01,182,50,None,None,None,,
+Male,1979-07-07,196,64,Peanuts,Keto,None,,
+Female,1993-07-18,189,87,Wheat,Keto,Type 1,1-14,73-126
+Female,1975-03-23,177,112,Lactose,High-Carb,Type 1,1-15,73-126
+Female,1950-09-11,175,102,Wheat,Keto,Type 1,1-7,73-126
+Male,1990-08-15,176,109,Wheat,None,None,,
+Male,1988-02-22,188,62,Shellfish,High-Carb,Type 2,,73-126
+Male,1981-04-12,187,115,Shellfish,None,None,,
+Male,1936-02-06,184,66,Lactose,Low-Carb,Type 2,,73-126
+Female,1976-03-04,189,106,Peanuts,Keto,Type 1,1-17,73-126
+Female,1966-12-01,193,80,Lactose,High-Carb,None,,
+Male,1980-06-03,193,111,Shellfish,Low-Carb,Type 1,1-5,73-126
+Female,1964-07-13,188,63,Lactose,Vegan,Type 2,,73-126
+Female,1998-11-16,186,112,None,None,None,,
+Female,1979-01-22,168,83,None,Low-Carb,Type 2,,73-126
+Female,1955-07-08,161,87,Peanuts,Low-Carb,Type 2,,73-126
+Male,1984-07-14,173,84,Shellfish,Low-Carb,Type 2,,73-126
+Female,1991-09-17,152,89,None,None,Type 1,1-9,73-126
+Female,1942-04-21,151,74,Shellfish,Vegan,None,,
+Male,1941-04-12,170,82,None,High-Carb,Type 2,,73-126
+Male,1977-05-15,176,73,Peanuts,High-Carb,Type 2,,73-126
+Female,2004-07-04,182,73,Lactose,Vegan,Type 1,1-10,73-126
+Female,1973-01-02,189,91,Shellfish,High-Carb,Type 1,1-5,73-126
+Male,1966-07-27,178,106,Peanuts,Low-Carb,Type 2,,73-126
+Female,1992-10-27,158,52,None,Keto,None,,
+Male,1991-02-22,196,67,Peanuts,High-Carb,None,,
+Male,1971-03-12,160,118,Shellfish,High-Carb,Type 1,1-18,73-126
+Female,2001-12-27,167,60,Lactose,Keto,None,,
+Male,1984-04-17,182,49,Lactose,Low-Carb,None,,
+Male,1945-08-09,196,80,Shellfish,Keto,Type 2,,73-126
+Male,1982-01-19,173,79,Wheat,High-Carb,None,,
+Male,1970-01-31,177,107,None,Keto,Type 1,1-11,73-126
+Female,1960-11-26,190,99,Shellfish,High-Carb,Type 2,,73-126
+Female,1974-08-11,161,72,Shellfish,Low-Carb,Type 2,,73-126
+Female,2000-02-18,186,112,Wheat,High-Carb,None,,
+Male,1953-06-14,171,62,Wheat,High-Carb,None,,
+Male,1941-08-05,159,52,Wheat,High-Carb,Type 1,1-8,73-126
+Female,1990-08-22,185,83,Shellfish,High-Carb,None,,
+Female,1936-01-05,198,116,Lactose,Low-Carb,Type 2,,73-126
+Female,1981-08-08,167,61,Wheat,None,None,,
+Female,1934-04-02,156,52,Wheat,None,None,,
+Male,1995-10-17,170,66,Peanuts,High-Carb,Type 2,,73-126
+Male,1994-09-29,160,48,Peanuts,Keto,Type 2,,73-126
+Male,1937-02-06,151,117,Wheat,Vegan,None,,
+Male,1975-07-08,171,88,Peanuts,None,Type 1,1-18,73-126
+Male,1935-03-02,153,78,Peanuts,Keto,Type 1,1-20,73-126
+Female,1976-08-07,171,107,Shellfish,Vegan,Type 2,,73-126
+Male,1945-09-24,184,62,Shellfish,None,Type 2,,73-126
+Male,1997-06-25,189,102,None,None,None,,
+Male,1948-09-29,179,50,Shellfish,None,Type 1,1-10,73-126
+Male,1961-02-05,199,60,None,High-Carb,None,,
+Female,1941-04-23,161,89,Wheat,High-Carb,None,,
+Female,1952-04-12,172,116,Peanuts,Vegan,None,,
+Male,1998-09-23,173,66,Shellfish,Keto,Type 1,1-9,73-126
+Male,1958-03-12,155,83,Peanuts,Keto,None,,
+Female,1968-08-06,194,109,Peanuts,None,None,,
+Female,1969-03-06,194,103,Lactose,Keto,Type 1,1-20,73-126
+Female,1945-11-04,187,52,Lactose,High-Carb,None,,
+Male,1986-05-14,152,70,Lactose,Low-Carb,Type 1,1-5,73-126
+Male,1997-04-28,197,78,None,Keto,None,,
+Female,1954-10-20,172,113,Lactose,High-Carb,None,,
+Female,1937-02-26,168,51,Shellfish,Keto,Type 2,,73-126
+Male,1947-06-14,170,87,Peanuts,Keto,None,,
+Female,1947-05-27,170,91,None,Low-Carb,Type 1,1-15,73-126
+Male,1982-10-25,180,97,Peanuts,High-Carb,Type 2,,73-126
+Female,1976-07-05,188,84,Shellfish,Vegan,Type 1,1-10,73-126
+Female,1990-06-07,172,61,Lactose,High-Carb,Type 2,,73-126
+Male,1995-12-12,172,82,None,None,Type 2,,73-126
+Female,1955-03-18,192,81,Shellfish,None,Type 2,,73-126
+Male,1959-03-02,176,95,Lactose,Keto,None,,
+Male,1983-10-12,160,49,Peanuts,Low-Carb,Type 1,1-17,73-126
+Female,1971-04-04,169,106,Peanuts,High-Carb,Type 2,,73-126
+Male,1999-08-11,175,52,Lactose,Low-Carb,Type 2,,73-126
+Male,1957-11-17,159,57,Wheat,High-Carb,Type 1,1-7,73-126
+Male,1999-12-22,159,64,None,None,Type 1,1-7,73-126
+Female,1998-07-11,193,113,Shellfish,None,Type 1,1-7,73-126
+Male,1980-01-04,198,54,None,High-Carb,None,,
+Male,1982-04-17,197,79,None,None,None,,
+Female,1973-05-30,161,114,Shellfish,High-Carb,Type 1,1-20,73-126
+Male,1974-06-22,159,49,Lactose,Keto,Type 2,,73-126
+Female,1966-12-08,152,48,None,Low-Carb,Type 1,1-19,73-126
+Female,1955-04-16,169,116,Lactose,Keto,None,,
+Female,1952-08-01,155,110,Shellfish,Vegan,Type 1,1-20,73-126
+Male,2004-12-15,183,58,Lactose,Keto,Type 1,1-12,73-126
+Female,1970-02-28,162,120,Shellfish,High-Carb,None,,
+Female,1973-04-08,183,99,Shellfish,Keto,Type 1,1-10,73-126
+Male,1977-03-20,184,91,Peanuts,High-Carb,None,,
+Female,1971-09-22,174,80,Shellfish,Vegan,None,,
+Female,1948-09-04,151,74,None,Keto,Type 1,1-19,73-126
+Female,1947-06-01,164,75,Lactose,Keto,Type 1,1-7,73-126
+Female,1943-06-27,174,78,Lactose,Keto,Type 1,1-5,73-126
+Female,1989-11-12,187,54,Peanuts,None,None,,
+Female,1981-09-11,167,106,Wheat,Keto,None,,
+Male,1936-01-22,198,66,Wheat,Low-Carb,Type 2,,73-126
+Female,1965-06-11,170,105,Shellfish,High-Carb,Type 2,,73-126
+Male,1980-08-04,198,70,None,None,None,,
+Female,1978-11-05,171,79,Peanuts,Vegan,Type 1,1-19,73-126
+Female,1962-10-20,192,103,Lactose,Vegan,Type 2,,73-126
+Female,1987-11-26,196,87,Wheat,Vegan,Type 2,,73-126
+Female,1935-05-27,199,67,None,Vegan,Type 1,1-7,73-126
+Female,1983-08-22,185,46,Peanuts,Keto,Type 1,1-7,73-126
+Female,1986-07-13,172,49,Shellfish,None,None,,
+Male,1962-10-04,183,96,Shellfish,Low-Carb,None,,
+Female,1993-12-26,174,74,Shellfish,Vegan,None,,
+Female,1937-03-07,170,96,Lactose,None,Type 1,1-13,73-126
+Female,1947-04-11,185,94,Wheat,Keto,Type 2,,73-126
+Male,1938-02-02,190,79,Shellfish,Keto,Type 1,1-14,73-126
+Male,2001-12-09,187,70,None,None,None,,
+Male,1983-05-19,170,80,Wheat,Keto,Type 1,1-10,73-126
+Female,1961-11-15,190,101,Peanuts,Keto,Type 1,1-9,73-126
+Male,1944-11-05,196,68,Peanuts,None,None,,
+Female,1984-10-14,187,99,None,Low-Carb,Type 2,,73-126
+Female,1979-06-30,158,114,Shellfish,None,Type 2,,73-126
+Female,1971-11-13,171,73,Wheat,Low-Carb,Type 1,1-13,73-126
+Female,1990-01-13,151,115,None,High-Carb,Type 2,,73-126
+Male,1988-03-29,174,61,Wheat,High-Carb,Type 2,,73-126
+Female,1950-02-15,186,70,None,Keto,None,,
+Female,1979-02-15,175,74,Shellfish,None,Type 2,,73-126
+Male,1967-01-10,193,52,Lactose,None,Type 1,1-11,73-126
+Male,1984-08-03,159,60,Peanuts,Low-Carb,Type 1,1-11,73-126
+Female,1970-12-14,190,67,Lactose,None,None,,
+Female,1945-12-10,178,114,Lactose,None,None,,
+Male,1990-11-23,176,79,Wheat,High-Carb,Type 1,1-5,73-126
+Male,1981-04-13,190,56,Shellfish,Vegan,Type 1,1-11,73-126
+Male,1959-03-19,179,65,Wheat,Vegan,None,,
+Male,1976-08-16,172,45,Shellfish,None,None,,
+Male,1974-05-15,181,113,Shellfish,None,Type 2,,73-126
+Female,1950-06-25,191,76,Shellfish,Vegan,None,,
+Female,1967-02-24,180,65,None,Vegan,None,,
+Male,1939-09-16,199,111,None,Vegan,Type 2,,73-126
+Female,1951-02-01,152,118,Wheat,Vegan,Type 2,,73-126
+Male,1958-07-04,154,63,Wheat,Low-Carb,Type 2,,73-126
+Female,1935-03-18,183,61,Shellfish,Vegan,Type 2,,73-126
+Male,2000-03-08,161,105,Shellfish,High-Carb,None,,
+Female,1944-09-01,164,119,Peanuts,Low-Carb,None,,
+Female,1994-09-10,190,96,None,Low-Carb,Type 2,,73-126
+Female,1967-06-08,182,83,Peanuts,Keto,Type 2,,73-126
+Female,1999-04-24,193,74,Lactose,High-Carb,None,,
+Female,1953-07-02,171,106,Shellfish,Vegan,Type 2,,73-126
+Female,1985-04-08,150,71,Wheat,High-Carb,Type 2,,73-126
+Female,1956-03-13,170,101,Wheat,Keto,Type 2,,73-126
+Female,2001-03-30,200,119,Peanuts,High-Carb,Type 2,,73-126
+Female,2001-05-22,193,70,None,None,Type 2,,73-126
+Female,1952-04-08,199,50,Peanuts,Low-Carb,Type 1,1-11,73-126
+Male,1969-06-04,198,79,Wheat,High-Carb,None,,
+Female,1979-05-14,182,75,Wheat,High-Carb,Type 1,1-16,73-126
+Male,1990-10-07,157,110,Lactose,Vegan,Type 1,1-13,73-126
+Male,1961-07-06,168,100,Wheat,Low-Carb,None,,
+Male,1988-01-07,151,52,Peanuts,Low-Carb,Type 1,1-10,73-126
+Male,1987-01-17,186,79,Lactose,None,None,,
+Male,1955-12-14,172,119,Peanuts,Low-Carb,None,,
+Female,2004-12-04,159,102,Lactose,Low-Carb,Type 2,,73-126
+Male,1936-12-04,188,77,Shellfish,High-Carb,Type 1,1-14,73-126
+Female,1949-02-10,189,52,Lactose,Vegan,None,,
+Male,1970-10-21,152,76,Wheat,None,None,,
+Female,1994-09-22,191,101,None,Low-Carb,Type 1,1-11,73-126
+Female,1969-12-20,170,66,Wheat,Vegan,Type 1,1-19,73-126
+Male,1970-03-13,166,110,Lactose,High-Carb,Type 2,,73-126
+Male,1994-10-16,197,115,Peanuts,Low-Carb,Type 2,,73-126
+Male,1958-07-23,191,102,None,Vegan,None,,
+Male,1952-02-01,191,109,Wheat,High-Carb,Type 2,,73-126
+Female,1975-01-29,151,84,None,Vegan,Type 2,,73-126
+Male,1968-10-14,151,88,Peanuts,Vegan,Type 1,1-11,73-126
+Male,1963-01-18,178,110,Shellfish,Keto,None,,
+Male,1940-12-02,193,51,Peanuts,None,None,,
+Male,1990-05-01,198,97,Shellfish,None,Type 1,1-15,73-126
+Male,1962-06-29,153,54,Wheat,High-Carb,None,,
+Male,1975-03-04,154,70,Peanuts,Keto,Type 1,1-13,73-126
+Male,1992-10-10,182,116,Lactose,Vegan,None,,
+Male,1943-10-18,152,115,Shellfish,Low-Carb,Type 1,1-7,73-126
+Male,1967-09-05,168,50,Wheat,Low-Carb,Type 2,,73-126
+Female,1993-11-05,188,74,None,Vegan,Type 1,1-10,73-126
+Female,1988-11-06,197,107,Lactose,Low-Carb,Type 1,1-13,73-126
+Female,2000-10-05,198,79,None,Vegan,Type 2,,73-126
+Male,1973-09-19,193,113,Shellfish,High-Carb,Type 2,,73-126
+Male,1970-10-31,195,54,Shellfish,Keto,Type 2,,73-126
+Female,1983-03-11,180,117,None,None,Type 1,1-9,73-126
+Female,1956-12-26,196,46,Shellfish,None,Type 1,1-5,73-126
+Male,1969-08-02,163,65,None,Low-Carb,Type 1,1-12,73-126
+Male,1996-04-04,185,63,Peanuts,High-Carb,None,,
+Male,1944-06-25,155,96,None,Keto,None,,
+Female,1965-01-17,161,94,Lactose,None,None,,
+Female,1945-06-18,192,64,Lactose,Vegan,None,,
+Female,1958-05-10,197,117,Peanuts,High-Carb,Type 1,1-16,73-126
+Female,1937-11-12,175,89,Shellfish,Vegan,None,,
+Female,1956-03-09,181,93,Wheat,High-Carb,Type 2,,73-126
+Male,1944-10-04,188,79,Wheat,Keto,Type 2,,73-126
+Male,1990-09-25,156,58,Shellfish,High-Carb,None,,
+Female,1959-02-28,173,84,Lactose,Keto,None,,
+Female,1972-03-10,168,72,Wheat,Low-Carb,Type 2,,73-126
+Female,1975-07-27,173,55,Lactose,None,None,,
+Female,1977-05-06,172,63,None,Keto,Type 1,1-5,73-126
+Female,1939-07-24,182,70,Shellfish,High-Carb,Type 1,1-14,73-126
+Female,1966-10-21,151,71,Wheat,Vegan,Type 2,,73-126
+Male,1987-12-12,151,66,Wheat,High-Carb,Type 2,,73-126
+Male,1952-08-04,197,96,Wheat,High-Carb,Type 1,1-19,73-126
+Female,1984-02-01,163,93,Shellfish,Keto,Type 2,,73-126
+Female,1935-02-27,183,97,Wheat,None,None,,
+Female,1979-05-31,195,97,Shellfish,High-Carb,Type 1,1-16,73-126
+Female,1972-03-30,163,116,Lactose,Vegan,Type 1,1-8,73-126
+Female,1941-01-02,184,67,Lactose,Vegan,Type 1,1-7,73-126
+Female,1979-01-18,170,59,Peanuts,High-Carb,Type 2,,73-126
+Female,1975-09-14,174,59,Wheat,High-Carb,Type 1,1-7,73-126
+Male,1987-04-14,152,87,Lactose,None,Type 1,1-7,73-126
+Male,1989-10-17,154,45,Wheat,Keto,None,,
+Male,1988-07-08,169,115,Lactose,Keto,Type 1,1-11,73-126
+Female,1989-03-01,164,96,Lactose,Low-Carb,Type 1,1-7,73-126
+Male,1953-05-02,179,87,Peanuts,High-Carb,None,,
+Male,2004-08-17,154,63,Peanuts,Low-Carb,None,,
+Female,1953-04-04,150,117,Wheat,High-Carb,Type 1,1-14,73-126
+Female,1990-06-02,155,76,Shellfish,Keto,Type 2,,73-126
+Female,1987-04-30,190,120,Lactose,Vegan,Type 2,,73-126
+Female,1983-04-27,171,92,Peanuts,High-Carb,None,,
+Female,1951-03-16,164,97,Peanuts,High-Carb,None,,
+Female,1974-07-15,161,109,Shellfish,None,Type 1,1-12,73-126
+Male,1948-04-25,161,66,Peanuts,Keto,Type 1,1-8,73-126
+Female,1951-12-01,177,64,Peanuts,Keto,Type 2,,73-126
+Male,1970-05-26,193,80,None,None,None,,
+Female,1951-03-13,170,71,Peanuts,Vegan,Type 2,,73-126
+Male,1941-12-20,193,111,Lactose,Vegan,None,,
+Male,1985-10-29,178,104,Wheat,Low-Carb,Type 1,1-16,73-126
+Male,1959-07-18,176,110,Shellfish,Vegan,Type 2,,73-126
+Male,1952-02-23,189,120,Lactose,Low-Carb,Type 2,,73-126
+Female,1990-04-02,158,109,Lactose,Vegan,Type 2,,73-126
+Male,1963-05-28,190,59,Wheat,Low-Carb,Type 2,,73-126
+Female,1986-02-04,168,81,Peanuts,High-Carb,Type 1,1-13,73-126
+Male,1939-05-29,152,71,None,High-Carb,None,,
+Male,2001-07-11,178,102,None,None,Type 1,1-16,73-126
+Female,1944-12-23,164,76,None,Keto,None,,
+Female,1936-01-09,182,91,Wheat,Vegan,Type 2,,73-126
+Male,1953-09-11,150,110,Wheat,None,None,,
+Female,1955-05-31,154,54,Shellfish,None,Type 2,,73-126
+Male,1952-11-01,174,48,Shellfish,Keto,None,,
+Female,1970-07-14,188,93,Peanuts,High-Carb,Type 2,,73-126
+Male,1937-09-14,165,65,Wheat,None,None,,
+Male,1948-09-13,182,54,None,Low-Carb,None,,
+Female,1965-04-11,155,104,Peanuts,Keto,Type 1,1-9,73-126
+Male,1987-10-25,172,56,Shellfish,Vegan,Type 1,1-15,73-126
+Female,1956-02-02,179,76,Wheat,High-Carb,None,,
+Female,1995-07-03,168,94,Peanuts,Low-Carb,Type 1,1-15,73-126
+Female,1968-05-04,193,101,Peanuts,None,Type 2,,73-126
+Male,1985-06-30,162,69,Wheat,None,Type 2,,73-126
+Female,1987-02-01,183,112,None,None,Type 2,,73-126
+Female,1966-05-11,182,112,None,Keto,Type 1,1-10,73-126
+Male,2007-01-06,188,103,Shellfish,Low-Carb,Type 2,,73-126
+Female,1989-02-13,198,80,Shellfish,Low-Carb,Type 2,,73-126
+Male,1943-06-08,159,45,None,None,Type 1,1-14,73-126
+Female,1944-09-02,200,112,Shellfish,None,None,,
+Male,2003-09-17,188,109,Peanuts,Low-Carb,Type 1,1-8,73-126
+Male,1991-01-10,188,48,None,High-Carb,Type 1,1-8,73-126
+Female,1991-05-26,173,64,Wheat,Low-Carb,Type 1,1-12,73-126
+Female,1981-12-02,161,120,Wheat,Low-Carb,Type 2,,73-126
+Female,2006-08-01,194,101,Lactose,High-Carb,Type 2,,73-126
+Female,1970-03-17,185,100,Lactose,None,Type 1,1-19,73-126
+Male,1975-09-28,179,90,Peanuts,None,Type 1,1-11,73-126
+Female,1967-05-24,175,84,None,Keto,Type 2,,73-126
+Female,1937-01-02,162,51,Lactose,None,None,,
+Male,1968-07-23,171,107,Lactose,Vegan,Type 2,,73-126
+Male,1964-04-22,160,79,Peanuts,Low-Carb,None,,
+Male,1979-02-14,153,107,Shellfish,Keto,None,,
+Female,1949-11-21,154,99,Wheat,Vegan,None,,
+Female,1962-07-26,173,80,Lactose,Low-Carb,None,,
+Male,1985-02-01,197,50,Wheat,None,None,,
+Male,1968-04-08,189,120,Wheat,None,None,,
+Female,1950-09-09,168,111,None,None,Type 1,1-18,73-126
+Male,1965-03-30,180,60,Shellfish,Low-Carb,Type 1,1-14,73-126
+Female,1955-05-11,152,54,Shellfish,Vegan,None,,
+Female,1953-04-29,167,63,Wheat,Keto,Type 2,,73-126
+Male,1958-02-15,182,80,Wheat,Vegan,Type 1,1-11,73-126
+Male,1983-02-18,159,112,Lactose,Vegan,Type 1,1-11,73-126
+Male,1940-12-28,188,52,Shellfish,Keto,Type 2,,73-126
+Male,2004-12-29,194,76,Peanuts,Keto,Type 1,1-19,73-126
+Female,1950-06-21,173,68,Lactose,None,Type 1,1-20,73-126
+Female,1974-09-12,194,53,None,Low-Carb,Type 1,1-10,73-126
+Female,1948-08-31,185,111,Shellfish,Low-Carb,Type 1,1-10,73-126
+Male,1942-07-17,165,80,Lactose,None,Type 2,,73-126
+Female,1965-10-30,172,113,Wheat,Low-Carb,None,,
+Female,1962-12-03,175,108,Wheat,Keto,Type 2,,73-126
+Female,2004-08-26,190,64,Lactose,Vegan,None,,
+Male,2000-12-14,168,67,Shellfish,Low-Carb,None,,
+Male,1981-11-09,167,73,Shellfish,None,Type 2,,73-126
+Female,1961-09-22,183,47,Shellfish,None,None,,
+Female,1988-03-01,153,48,None,High-Carb,Type 1,1-7,73-126
+Male,1982-04-11,185,81,None,Vegan,Type 2,,73-126
+Female,1955-07-27,172,76,Peanuts,High-Carb,Type 2,,73-126
+Male,1954-12-27,153,110,Shellfish,None,Type 2,,73-126
+Male,1947-04-16,171,95,None,Keto,None,,
+Male,1941-06-25,179,93,Shellfish,Low-Carb,Type 1,1-14,73-126
+Male,1988-08-12,194,95,Lactose,Low-Carb,None,,
+Male,1995-03-27,163,86,Lactose,Vegan,Type 1,1-11,73-126
+Female,1989-05-21,165,107,Peanuts,None,Type 2,,73-126
+Male,1990-10-20,174,115,Wheat,Keto,Type 1,1-11,73-126
+Female,1950-12-09,199,69,Wheat,Low-Carb,Type 1,1-9,73-126
+Female,1946-03-10,172,58,Peanuts,Low-Carb,None,,
+Male,1990-03-14,159,73,None,None,Type 1,1-13,73-126
+Male,1969-10-15,150,96,Peanuts,Vegan,None,,
+Male,1935-09-05,189,106,Wheat,Vegan,Type 2,,73-126
+Male,1976-08-17,154,117,None,None,Type 2,,73-126
+Female,1945-04-21,188,61,Lactose,Keto,None,,
+Female,1951-09-05,155,63,Wheat,Keto,Type 1,1-14,73-126
+Female,1946-01-31,195,108,Wheat,High-Carb,Type 2,,73-126
+Male,2006-06-17,168,102,Shellfish,Keto,Type 1,1-5,73-126
+Male,1983-10-20,175,45,Peanuts,Low-Carb,Type 2,,73-126
+Male,1968-01-15,168,96,None,None,Type 2,,73-126
+Female,2002-01-13,169,63,Shellfish,High-Carb,Type 2,,73-126
+Female,1945-01-25,171,73,Lactose,Keto,Type 1,1-18,73-126
+Male,2007-01-30,179,103,Shellfish,None,Type 1,1-13,73-126
+Female,1957-07-31,193,95,Lactose,High-Carb,Type 1,1-15,73-126
+Male,1970-03-27,161,95,Shellfish,High-Carb,None,,
+Female,1938-11-22,177,47,None,Keto,None,,
+Female,1990-04-24,156,109,Shellfish,Keto,None,,
+Male,1984-04-30,151,90,Wheat,None,Type 1,1-20,73-126
+Male,1965-07-13,182,67,Shellfish,None,Type 1,1-16,73-126
+Male,1993-02-18,193,58,Peanuts,Low-Carb,Type 1,1-15,73-126
+Female,1935-08-25,163,54,Shellfish,Keto,Type 2,,73-126
+Female,1965-07-20,161,90,Peanuts,Vegan,Type 1,1-9,73-126
+Male,1969-03-26,156,52,Peanuts,High-Carb,Type 2,,73-126
+Female,1999-04-21,169,120,Peanuts,None,Type 2,,73-126
+Female,1941-04-20,162,86,None,Keto,Type 2,,73-126
+Female,1958-12-24,161,88,None,High-Carb,Type 2,,73-126
+Male,1995-02-21,151,46,None,Vegan,Type 1,1-20,73-126
+Male,1954-10-10,157,103,None,Keto,Type 2,,73-126
+Female,1969-09-26,163,112,Peanuts,Keto,None,,
+Female,1987-09-25,196,78,Lactose,Low-Carb,None,,
+Female,1971-02-10,171,91,Shellfish,Low-Carb,Type 2,,73-126
+Female,1943-05-12,151,46,Lactose,Low-Carb,Type 1,1-13,73-126
+Female,1999-05-10,157,53,Wheat,High-Carb,Type 2,,73-126
+Male,1969-11-09,192,64,Shellfish,Vegan,None,,
+Female,1991-10-30,150,48,Peanuts,Keto,Type 2,,73-126
+Female,1962-03-12,186,47,Shellfish,Vegan,Type 1,1-10,73-126
+Male,1994-05-14,163,116,Lactose,None,Type 2,,73-126
+Female,1941-03-18,171,99,Lactose,None,Type 2,,73-126
+Male,1951-05-02,172,115,Shellfish,None,None,,
+Male,1962-12-08,191,47,Wheat,High-Carb,Type 1,1-18,73-126
+Male,1935-01-14,169,104,None,Keto,Type 1,1-8,73-126
+Male,1983-10-11,163,63,None,Low-Carb,Type 2,,73-126
+Male,1962-02-07,174,51,Peanuts,Keto,Type 1,1-17,73-126
+Female,1981-01-21,194,71,Peanuts,Low-Carb,Type 2,,73-126
+Female,1990-02-22,194,63,Wheat,None,Type 1,1-8,73-126
+Male,1948-11-24,153,55,Shellfish,None,None,,
+Male,1935-01-11,160,90,Wheat,None,Type 1,1-18,73-126
+Male,2006-12-19,169,59,Shellfish,Vegan,Type 1,1-10,73-126
+Female,1949-12-03,152,102,Lactose,Low-Carb,Type 2,,73-126
+Female,1966-02-28,155,117,Wheat,Low-Carb,Type 2,,73-126
+Male,1963-01-08,151,113,None,Low-Carb,None,,
+Male,1940-07-13,164,95,Wheat,Low-Carb,Type 1,1-14,73-126
+Female,1953-05-31,179,96,Shellfish,Keto,Type 1,1-8,73-126
+Female,1964-07-18,184,62,Peanuts,Low-Carb,Type 2,,73-126
+Female,1984-12-04,178,99,Lactose,High-Carb,None,,
+Female,1941-07-22,150,100,Lactose,High-Carb,Type 1,1-12,73-126
+Female,2000-11-04,181,103,Peanuts,Keto,Type 1,1-10,73-126
+Female,1963-04-14,160,104,None,Keto,Type 1,1-11,73-126
+Female,1971-01-19,157,56,Lactose,Vegan,Type 1,1-9,73-126
+Male,1984-07-02,180,48,Lactose,Keto,Type 2,,73-126
+Female,1990-09-22,165,75,Wheat,Vegan,None,,
+Female,1976-03-27,162,59,Shellfish,Low-Carb,Type 2,,73-126
+Female,1941-06-15,169,100,Lactose,Keto,Type 1,1-18,73-126
+Male,1962-01-26,185,94,None,None,Type 1,1-12,73-126
+Male,1946-04-19,177,83,Wheat,Low-Carb,Type 2,,73-126
+Female,1951-10-05,180,101,Shellfish,None,Type 2,,73-126
+Male,1977-03-16,165,83,Wheat,None,Type 2,,73-126
+Female,1999-07-27,151,84,Shellfish,Keto,Type 2,,73-126
+Female,1980-05-01,156,105,None,High-Carb,Type 2,,73-126
+Male,1963-12-22,172,77,Shellfish,Low-Carb,Type 1,1-9,73-126
+Male,1962-05-23,172,98,Wheat,Vegan,None,,
+Female,1990-01-03,184,48,None,High-Carb,None,,
+Female,1946-05-30,161,100,None,Vegan,None,,
+Male,1948-01-19,154,118,Peanuts,Vegan,Type 2,,73-126
+Female,1952-08-16,190,109,Lactose,Vegan,Type 2,,73-126
+Male,2006-07-08,190,104,None,Keto,Type 2,,73-126
+Male,2003-06-21,170,64,Shellfish,Low-Carb,Type 2,,73-126
+Female,1969-03-30,189,119,None,None,Type 1,1-14,73-126
+Female,1967-05-16,182,100,None,Keto,Type 2,,73-126
+Female,1976-03-27,197,72,None,High-Carb,None,,
+Male,1942-08-17,193,47,Peanuts,None,Type 1,1-13,73-126
+Female,1981-12-12,158,93,None,Vegan,Type 1,1-13,73-126
+Male,1937-08-28,170,51,Lactose,Low-Carb,Type 1,1-8,73-126
+Female,1936-11-28,184,118,Wheat,Keto,Type 2,,73-126
+Female,1991-11-20,197,115,Peanuts,Vegan,None,,
+Male,1956-03-29,174,85,None,Keto,None,,
+Male,1954-03-19,159,105,None,Vegan,Type 2,,73-126
+Male,1954-09-10,171,58,Wheat,Keto,Type 2,,73-126
+Female,1981-10-15,186,68,None,None,Type 1,1-10,73-126
+Male,1946-05-27,178,115,None,Keto,None,,
+Female,1961-05-16,163,91,Shellfish,None,Type 1,1-5,73-126
+Female,1935-04-28,200,52,Peanuts,None,Type 2,,73-126
+Male,1999-12-05,195,85,None,Low-Carb,Type 2,,73-126
+Female,2000-10-16,198,115,Wheat,Vegan,Type 2,,73-126
+Female,1990-01-24,179,108,None,Low-Carb,Type 2,,73-126
+Female,1949-08-20,193,115,None,Keto,Type 2,,73-126
+Male,1970-10-02,198,102,Wheat,Vegan,None,,
+Female,1996-04-02,180,103,Peanuts,High-Carb,Type 2,,73-126
+Female,1977-04-07,177,101,None,None,Type 1,1-5,73-126
+Male,1993-02-23,198,95,Shellfish,Low-Carb,None,,
+Male,1966-02-10,174,78,Shellfish,Vegan,Type 2,,73-126
+Male,1974-05-26,153,113,None,Keto,None,,
+Male,1992-05-13,161,104,Lactose,None,None,,
+Female,1946-07-04,158,92,Peanuts,Vegan,None,,
+Female,1944-03-04,187,103,Shellfish,Low-Carb,Type 1,1-5,73-126
+Female,1993-09-27,156,95,Lactose,Keto,Type 2,,73-126
+Male,1978-11-06,182,101,Shellfish,High-Carb,Type 2,,73-126
+Male,1986-07-12,196,109,Shellfish,Keto,None,,
+Female,1963-03-10,183,114,Shellfish,None,Type 2,,73-126
+Male,1969-09-06,183,56,Shellfish,Keto,Type 1,1-20,73-126
+Female,1999-06-21,181,73,None,None,Type 2,,73-126
+Female,1960-05-04,180,66,Peanuts,Low-Carb,Type 1,1-15,73-126
+Female,2006-04-26,180,50,Lactose,None,Type 2,,73-126
+Female,1938-02-03,170,79,None,None,Type 2,,73-126
+Male,1934-09-29,185,63,Lactose,None,Type 1,1-16,73-126
+Female,1984-03-28,151,65,Wheat,Vegan,None,,
+Male,1974-10-16,152,64,Peanuts,Vegan,Type 1,1-19,73-126
+Female,2002-03-05,193,113,None,High-Carb,Type 2,,73-126
+Male,1938-03-27,163,47,Shellfish,None,None,,
+Male,1941-06-20,159,102,Shellfish,Keto,Type 1,1-20,73-126
+Male,1947-10-20,195,71,Wheat,None,None,,
+Male,1998-12-20,151,91,Shellfish,Low-Carb,Type 1,1-8,73-126
+Female,1937-09-16,188,111,None,High-Carb,Type 2,,73-126
+Male,1945-08-07,167,97,None,High-Carb,Type 1,1-19,73-126
+Male,1938-11-22,181,94,None,Vegan,Type 1,1-8,73-126
+Male,1957-04-25,186,61,Lactose,Low-Carb,Type 2,,73-126
+Male,1968-01-03,197,62,Wheat,None,None,,
+Male,1975-06-25,193,47,None,High-Carb,Type 2,,73-126
+Female,2004-09-15,156,118,Wheat,Vegan,Type 1,1-13,73-126
+Male,1974-01-08,182,113,Lactose,Keto,Type 2,,73-126
+Female,1977-06-03,185,111,Wheat,High-Carb,Type 2,,73-126
+Female,1979-04-24,195,81,Shellfish,High-Carb,Type 1,1-6,73-126
+Male,1983-11-30,168,110,Shellfish,Keto,None,,
+Male,1969-04-15,200,62,None,High-Carb,None,,
+Male,1958-07-09,200,46,Shellfish,Vegan,Type 1,1-10,73-126
+Female,2003-01-05,183,112,Wheat,Vegan,Type 1,1-12,73-126
+Female,1934-03-03,193,69,Lactose,High-Carb,Type 2,,73-126
+Male,1952-10-24,164,70,Wheat,Vegan,None,,
+Female,2005-05-12,172,101,None,High-Carb,Type 1,1-9,73-126
+Female,1953-09-30,175,51,None,None,Type 1,1-16,73-126
+Male,2001-11-16,171,49,Wheat,High-Carb,Type 2,,73-126
+Female,1953-07-29,180,69,Shellfish,Keto,Type 1,1-19,73-126
+Female,1940-09-07,177,87,Peanuts,High-Carb,None,,
+Male,1955-08-19,164,62,Lactose,Vegan,Type 2,,73-126
+Male,1969-03-08,196,90,Shellfish,None,None,,
+Male,1935-03-06,165,69,Wheat,High-Carb,None,,
+Male,1936-04-13,158,109,Shellfish,Keto,Type 2,,73-126
+Male,1975-10-24,167,56,Peanuts,Low-Carb,Type 1,1-13,73-126
+Male,1938-03-03,178,75,Lactose,Keto,Type 2,,73-126
+Female,1966-02-14,188,107,None,Keto,None,,
+Male,1979-06-28,156,67,None,Keto,Type 2,,73-126
+Female,1983-09-20,156,52,None,Low-Carb,Type 2,,73-126
+Male,1986-02-20,168,95,Shellfish,None,Type 2,,73-126
+Male,1970-07-26,157,98,Shellfish,None,Type 1,1-7,73-126
+Female,1947-07-29,197,90,Lactose,High-Carb,Type 1,1-16,73-126
+Female,1935-11-04,169,75,Peanuts,Keto,Type 1,1-16,73-126
+Female,1958-05-20,159,102,Peanuts,Vegan,Type 2,,73-126
+Female,1938-10-18,164,82,Wheat,None,Type 2,,73-126
+Male,1997-01-15,164,118,Lactose,Vegan,Type 1,1-6,73-126
+Male,2005-03-14,166,80,Lactose,Vegan,Type 1,1-18,73-126
+Male,1970-03-20,197,107,Peanuts,High-Carb,Type 2,,73-126
+Female,2000-04-20,172,79,Lactose,High-Carb,Type 1,1-14,73-126
+Female,1983-05-02,155,58,Lactose,Vegan,None,,
+Female,1959-02-04,180,85,Shellfish,Vegan,Type 1,1-13,73-126
+Female,1936-02-21,194,71,Wheat,Keto,None,,
+Male,1949-03-22,189,64,Wheat,Low-Carb,None,,
+Female,1937-04-11,189,91,Lactose,Vegan,None,,
+Female,1988-03-01,178,72,Peanuts,Low-Carb,Type 2,,73-126
+Male,1965-03-01,158,78,None,Vegan,None,,
+Female,2002-11-15,194,104,Shellfish,Keto,Type 1,1-9,73-126
+Female,1942-12-18,191,110,None,High-Carb,Type 2,,73-126
+Male,1989-06-25,179,59,Peanuts,Low-Carb,Type 2,,73-126
+Female,1995-03-22,169,75,Wheat,Vegan,Type 2,,73-126
+Male,1992-04-23,179,115,Wheat,Vegan,Type 2,,73-126
+Male,1974-11-02,183,45,Peanuts,None,Type 2,,73-126
+Male,1988-10-22,190,85,Shellfish,None,Type 2,,73-126
+Male,1975-04-14,195,120,Shellfish,Vegan,Type 2,,73-126
+Female,1948-11-07,150,87,Wheat,High-Carb,Type 1,1-9,73-126
+Male,2002-06-03,197,119,None,Vegan,None,,
+Female,1988-09-03,172,103,None,High-Carb,None,,
+Male,1976-09-09,150,83,Shellfish,Vegan,None,,
+Male,2003-08-10,154,114,Shellfish,High-Carb,Type 2,,73-126
+Female,1946-04-28,154,74,Lactose,Low-Carb,Type 1,1-11,73-126
+Female,1962-08-14,171,76,Peanuts,None,Type 1,1-17,73-126
+Male,2001-05-25,198,81,None,Low-Carb,Type 2,,73-126
+Male,1961-06-12,161,69,Peanuts,Keto,Type 1,1-12,73-126
+Male,1951-02-28,193,99,None,Low-Carb,Type 1,1-18,73-126
+Male,1947-04-10,195,82,Lactose,Keto,Type 1,1-19,73-126
+Male,1962-03-24,184,60,Lactose,Low-Carb,Type 2,,73-126
+Male,1998-06-04,163,75,Shellfish,High-Carb,None,,
+Female,1996-07-27,155,104,Shellfish,Keto,None,,
+Male,2002-02-10,156,50,Wheat,High-Carb,Type 1,1-10,73-126
+Male,2005-01-09,153,108,None,Vegan,None,,
+Female,1980-04-14,167,113,Lactose,High-Carb,None,,
+Female,1963-01-28,179,75,None,Keto,None,,
+Female,1979-01-06,164,103,Peanuts,Keto,Type 1,1-15,73-126
+Male,1958-09-05,164,58,Lactose,None,Type 2,,73-126
+Male,1971-04-06,190,74,None,Low-Carb,None,,
+Female,1974-11-11,178,52,Lactose,Keto,Type 2,,73-126
+Female,1956-12-10,181,50,Shellfish,Low-Carb,None,,
+Female,2003-09-18,168,93,Peanuts,Low-Carb,Type 2,,73-126
+Male,1992-05-30,171,55,Wheat,None,Type 1,1-8,73-126
+Female,1991-07-03,190,48,Wheat,None,None,,
+Male,1985-04-24,187,101,Shellfish,None,Type 1,1-20,73-126
+Female,1967-10-19,171,59,Wheat,Vegan,Type 2,,73-126
+Female,1954-07-10,152,87,Wheat,Keto,Type 2,,73-126
+Female,1987-02-05,182,52,None,Vegan,Type 1,1-20,73-126
+Male,1962-10-15,185,94,Peanuts,High-Carb,Type 2,,73-126
+Female,1995-11-20,179,51,Shellfish,Vegan,None,,
+Male,1936-06-20,156,47,None,Vegan,None,,
+Male,1972-05-22,197,119,Wheat,Keto,Type 2,,73-126
+Male,2003-11-23,166,86,Peanuts,None,Type 2,,73-126
+Female,1964-01-26,194,110,Wheat,Keto,Type 1,1-16,73-126
+Female,1972-01-05,184,48,None,Low-Carb,Type 2,,73-126
+Female,1985-06-21,194,120,Shellfish,Keto,None,,
+Male,1938-12-05,153,86,Wheat,Vegan,Type 2,,73-126
+Female,1940-10-02,187,97,Wheat,Keto,Type 1,1-8,73-126
+Male,1974-04-16,153,114,Shellfish,None,Type 2,,73-126
+Male,1977-05-19,161,45,Peanuts,Keto,Type 2,,73-126
+Female,1938-10-26,183,103,None,High-Carb,Type 1,1-15,73-126
+Male,1940-02-29,183,98,Shellfish,Keto,Type 2,,73-126
+Male,1961-10-22,185,108,Lactose,Vegan,None,,
+Male,1965-12-31,176,49,Peanuts,High-Carb,Type 2,,73-126
+Male,1940-04-18,182,52,None,Vegan,Type 1,1-6,73-126
+Female,1983-08-04,171,64,None,High-Carb,None,,
+Female,1982-08-28,186,52,Wheat,High-Carb,Type 2,,73-126
+Male,1987-10-23,150,103,Peanuts,High-Carb,Type 2,,73-126
+Female,1987-06-18,175,116,Wheat,None,None,,
+Male,1940-02-25,172,45,Lactose,Keto,Type 2,,73-126
+Female,1963-03-26,158,80,Lactose,High-Carb,None,,
+Male,1945-05-28,169,74,Peanuts,None,Type 2,,73-126
+Female,1988-09-01,167,92,Lactose,None,Type 2,,73-126
+Male,1989-06-26,175,119,Lactose,High-Carb,Type 1,1-6,73-126
+Female,1963-12-30,194,68,Shellfish,Keto,Type 2,,73-126
+Male,1952-02-27,166,55,None,Keto,Type 2,,73-126
+Male,1981-02-18,168,49,Peanuts,None,None,,
+Female,2002-05-28,197,56,Lactose,Keto,Type 1,1-12,73-126
+Female,1948-09-27,193,106,Wheat,None,None,,
+Male,1997-05-09,199,114,None,Keto,Type 2,,73-126
+Female,1976-04-27,177,46,Lactose,Low-Carb,Type 2,,73-126
+Male,1971-10-03,174,62,Peanuts,High-Carb,Type 1,1-16,73-126
+Male,1989-09-18,185,116,Shellfish,Vegan,Type 2,,73-126
+Female,1956-09-16,168,74,Shellfish,Keto,Type 2,,73-126
+Female,1937-10-27,187,98,Lactose,Low-Carb,Type 1,1-9,73-126
+Male,1968-12-25,177,91,Shellfish,Keto,Type 1,1-16,73-126
+Male,1939-02-26,188,111,Lactose,Keto,None,,
+Female,1979-09-06,172,70,Wheat,High-Carb,None,,
+Male,1968-01-28,160,90,Lactose,High-Carb,Type 2,,73-126
+Female,1970-05-26,179,116,Lactose,None,Type 2,,73-126
+Female,1940-12-10,153,61,None,Low-Carb,Type 2,,73-126
+Female,1998-06-11,157,108,Peanuts,Vegan,Type 1,1-11,73-126
+Female,1943-07-21,175,108,Peanuts,Vegan,Type 2,,73-126
+Male,1936-11-16,199,111,Wheat,Vegan,Type 1,1-19,73-126
+Male,1949-05-17,191,76,None,None,Type 2,,73-126
+Male,1936-10-25,189,81,Shellfish,Keto,Type 1,1-6,73-126
+Male,1960-12-05,181,106,Lactose,Keto,Type 2,,73-126
+Female,1960-07-23,150,49,Lactose,Keto,Type 1,1-7,73-126
+Male,1973-06-01,151,112,Wheat,Low-Carb,Type 1,1-14,73-126
+Female,1990-01-30,151,82,None,High-Carb,Type 1,1-7,73-126
+Female,1950-04-03,164,88,Wheat,Keto,None,,
+Female,2005-11-01,150,88,None,None,Type 1,1-17,73-126
+Male,2000-06-20,199,74,Peanuts,Vegan,None,,
+Male,1961-12-05,150,48,Peanuts,Keto,Type 1,1-11,73-126
+Female,1966-04-25,176,100,Peanuts,High-Carb,None,,
+Female,1937-12-17,172,52,Wheat,Low-Carb,Type 2,,73-126
+Male,1983-11-17,161,68,Wheat,Keto,Type 1,1-10,73-126
+Male,1985-01-06,156,52,Shellfish,High-Carb,Type 1,1-7,73-126
+Male,1943-08-07,199,88,Lactose,None,Type 1,1-13,73-126
+Male,1981-04-29,172,103,Peanuts,Keto,Type 2,,73-126
+Female,1955-11-01,168,56,Wheat,None,Type 2,,73-126
+Female,2005-11-05,155,95,Lactose,Keto,Type 2,,73-126
+Female,1986-03-15,183,69,Peanuts,Vegan,None,,
+Female,1937-03-14,190,72,Lactose,High-Carb,None,,
+Female,1952-09-17,185,75,None,High-Carb,Type 2,,73-126
+Female,1986-02-02,158,84,Lactose,None,Type 2,,73-126
+Female,1965-11-30,160,108,Lactose,None,None,,
+Male,1999-03-29,168,92,Shellfish,Vegan,Type 1,1-8,73-126
+Male,1973-08-26,186,54,None,Low-Carb,None,,
+Male,1962-02-09,167,93,Wheat,High-Carb,Type 1,1-11,73-126
+Female,2000-07-09,153,55,Shellfish,High-Carb,Type 1,1-8,73-126
+Male,1938-11-17,153,53,Lactose,Vegan,None,,
+Female,1975-02-17,186,63,Shellfish,Vegan,Type 2,,73-126
+Male,1972-07-24,164,80,Shellfish,High-Carb,Type 1,1-9,73-126
+Female,1972-02-26,175,81,Wheat,Low-Carb,Type 2,,73-126
+Female,1958-12-14,185,73,None,None,Type 1,1-17,73-126
+Male,1976-11-22,171,120,Wheat,None,Type 1,1-5,73-126
+Male,1982-05-06,150,110,None,None,None,,
+Female,1985-07-16,154,77,None,Low-Carb,Type 2,,73-126
+Male,1990-09-22,167,116,Shellfish,High-Carb,Type 1,1-20,73-126
+Male,1982-12-24,200,65,Peanuts,Low-Carb,Type 2,,73-126
+Male,1982-01-01,186,111,None,None,Type 2,,73-126
+Male,1982-12-31,196,118,Wheat,Vegan,None,,
+Male,1973-12-27,170,105,Wheat,High-Carb,None,,
+Male,1948-05-26,187,55,None,Low-Carb,Type 2,,73-126
+Male,1975-07-23,176,114,Shellfish,Vegan,Type 1,1-13,73-126
+Male,1985-12-28,184,87,Peanuts,High-Carb,Type 1,1-17,73-126
+Female,1979-01-13,195,57,None,Vegan,Type 1,1-5,73-126
+Male,1942-02-08,190,70,None,High-Carb,Type 2,,73-126
+Male,1979-08-15,187,65,Peanuts,Low-Carb,Type 1,1-11,73-126
+Female,1949-09-28,188,79,Shellfish,Vegan,None,,
+Female,1950-09-17,184,87,Shellfish,High-Carb,None,,
+Male,1981-02-04,166,68,Peanuts,High-Carb,None,,
+Female,1954-05-04,196,93,Shellfish,None,Type 1,1-17,73-126
+Male,1945-01-26,183,110,Peanuts,None,Type 1,1-7,73-126
+Female,1941-05-16,160,90,Shellfish,Low-Carb,Type 1,1-20,73-126
+Male,1985-12-04,174,100,Lactose,Vegan,Type 1,1-17,73-126
+Female,1993-03-18,177,103,Peanuts,None,None,,
+Male,1992-04-19,169,46,Wheat,High-Carb,Type 2,,73-126
+Male,1968-08-25,166,67,Shellfish,Keto,None,,
+Female,2006-08-16,195,70,Shellfish,Vegan,Type 2,,73-126
+Female,1973-03-25,188,57,Wheat,Keto,Type 1,1-18,73-126
+Male,1996-10-25,193,112,Shellfish,None,Type 2,,73-126
+Male,1936-04-08,171,116,Lactose,None,None,,
+Male,1987-03-15,155,64,Shellfish,Keto,Type 1,1-12,73-126
+Female,1939-06-07,184,108,Shellfish,High-Carb,None,,
+Male,1991-04-13,174,47,Lactose,Keto,Type 2,,73-126
+Female,2001-03-27,174,63,Peanuts,Vegan,None,,
+Female,1990-03-13,188,93,Shellfish,None,Type 1,1-19,73-126
+Male,1986-03-20,151,50,Shellfish,Low-Carb,None,,
+Male,2000-01-08,194,71,Peanuts,Vegan,Type 1,1-8,73-126
+Male,1993-06-25,163,65,Lactose,Low-Carb,None,,
+Male,1969-01-31,190,80,None,High-Carb,Type 2,,73-126
+Male,1964-01-29,181,102,Wheat,None,Type 2,,73-126
+Female,1995-08-14,151,104,Peanuts,Keto,Type 1,1-7,73-126
+Female,1998-08-23,183,106,Lactose,Keto,Type 2,,73-126
+Male,1979-09-09,152,119,Shellfish,Keto,Type 2,,73-126
+Female,1957-04-07,162,99,Shellfish,Keto,Type 1,1-9,73-126
+Female,1999-03-25,187,88,None,Keto,Type 2,,73-126
+Female,1944-02-07,200,112,None,Keto,None,,
+Female,1994-11-20,165,86,Wheat,Vegan,None,,
+Female,1949-08-26,156,106,Lactose,Low-Carb,Type 2,,73-126
+Female,1993-06-15,157,66,Wheat,Low-Carb,Type 2,,73-126
+Male,2000-09-12,179,61,Peanuts,Low-Carb,Type 2,,73-126
+Female,1979-11-03,174,119,Lactose,Vegan,None,,
+Male,1951-11-11,168,100,Lactose,None,Type 2,,73-126
+Male,1956-08-29,157,112,Shellfish,Low-Carb,Type 2,,73-126
+Female,1970-12-18,180,84,Peanuts,Vegan,Type 1,1-12,73-126
+Male,1940-07-24,156,107,Shellfish,High-Carb,Type 1,1-17,73-126
+Female,1951-07-23,168,116,Wheat,None,Type 2,,73-126
+Male,1962-10-25,168,108,Wheat,None,Type 2,,73-126
+Female,1978-12-23,183,100,Wheat,None,None,,
+Male,1942-08-24,155,47,Peanuts,Keto,Type 2,,73-126
+Male,1980-10-25,192,94,Wheat,None,Type 1,1-13,73-126
+Male,1970-01-22,166,85,Lactose,High-Carb,Type 2,,73-126
+Female,1934-08-21,166,99,None,None,Type 2,,73-126
+Female,1957-01-13,159,89,None,High-Carb,None,,
+Male,1981-07-24,199,56,Lactose,None,Type 1,1-7,73-126
+Male,1978-07-05,165,93,Peanuts,High-Carb,None,,
+Female,1978-05-18,176,102,Shellfish,High-Carb,Type 1,1-19,73-126
+Female,1963-07-08,151,111,Lactose,Vegan,Type 2,,73-126
+Male,1973-07-02,163,63,Shellfish,Vegan,Type 2,,73-126
+Female,1964-12-15,173,74,Shellfish,High-Carb,None,,
+Female,1952-09-30,189,52,Lactose,High-Carb,Type 1,1-11,73-126
+Male,1987-04-22,176,112,Shellfish,Keto,Type 1,1-7,73-126
+Female,1958-02-22,189,106,Lactose,Vegan,None,,
+Male,1976-09-22,150,98,None,High-Carb,None,,
+Female,2001-01-25,150,112,Wheat,Low-Carb,Type 1,1-11,73-126
+Female,1984-03-31,179,104,None,Vegan,Type 2,,73-126
+Female,1955-05-11,181,45,Lactose,High-Carb,Type 1,1-20,73-126
+Male,1939-03-16,196,117,Wheat,None,None,,
+Male,1938-12-14,156,75,Shellfish,High-Carb,Type 1,1-19,73-126
+Male,1937-10-17,162,75,Lactose,Vegan,None,,
+Female,2006-06-07,172,100,Lactose,Keto,Type 2,,73-126
+Male,1979-11-19,151,67,Shellfish,None,Type 1,1-10,73-126
+Male,1997-07-12,168,92,Lactose,Keto,Type 2,,73-126
+Female,1961-11-20,183,82,Wheat,Low-Carb,None,,
+Male,1993-11-26,151,81,Shellfish,Low-Carb,None,,
+Male,2000-03-21,198,75,Shellfish,None,Type 1,1-12,73-126
+Female,1979-08-28,180,116,Peanuts,Keto,Type 1,1-16,73-126
+Male,1958-08-24,180,67,Shellfish,Keto,Type 2,,73-126
