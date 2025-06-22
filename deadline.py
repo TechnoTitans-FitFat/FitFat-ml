@@ -245,12 +245,10 @@ def get_valid_columns_for_user(user_new, base_columns):
             if user_new[col].iloc[0] != 0:
                 valid_columns.append(col)
         elif col == 'type_encoded':
-            # Check if the value of type_encoded exists in the meal data
             user_value = user_new[col].iloc[0]
             if user_value != -1 and user_value in encoded_values_range[col]:
                 valid_columns.append(col)
         elif col in ['diet_encoded', 'allergy_encoded']:
-            # Check if the value is within the valid range of meal data
             user_value = user_new[col].iloc[0]
             if user_value != -1 and user_value in encoded_values_range[col]:
                 valid_columns.append(col)
@@ -305,9 +303,7 @@ def get_recommendations_with_allergy_priority(user_new, valid_columns, data_new,
             return recommendations
         else:
             print("Warning: No safe meals found for user's allergy constraint")
-            # Continue with general recommendation but flag the issue
 
-    # Fallback: general recommendation without allergy constraint
     print("Using general recommendation approach")
     current_model = get_or_train_model(valid_columns)
 
@@ -325,7 +321,6 @@ def get_recommendations_with_allergy_priority(user_new, valid_columns, data_new,
     for idx in top_indices:
         meal_id = str(meal_data.iloc[idx]["_id"])
         similarity_score = similarities[idx]
-        # Check if this meal is safe for user's allergy
         is_safe = True
         if has_allergy:
             meal_allergy = data_new.iloc[idx]['allergy_encoded']
@@ -369,7 +364,7 @@ def recommend_meal():
   user_new[numerical_features] = scaler.transform(user_new[numerical_features])
   valid_columns = get_valid_columns_for_user(user_new, base_columns)
 
-  print(f"الأعمدة المستخدمة في التوصية: {valid_columns}")
+  print(f"valid column used in recommendation: {valid_columns}")
 
   if not valid_columns:
       print("Warning: No valid columns to compare")
